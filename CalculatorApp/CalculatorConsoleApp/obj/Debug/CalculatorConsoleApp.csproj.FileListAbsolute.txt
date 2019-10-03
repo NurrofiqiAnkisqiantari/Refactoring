@@ -1,0 +1,14 @@
+D:\18.11.2310\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\18.11.2310\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\18.11.2310\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\18.11.2310\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+D:\18.11.2310\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\18.11.2310\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\18.11.2310\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+D:\Mata Kuliah\Pemrograman\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\Mata Kuliah\Pemrograman\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\Mata Kuliah\Pemrograman\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\Mata Kuliah\Pemrograman\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+D:\Mata Kuliah\Pemrograman\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\Pemrograman\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\Mata Kuliah\Pemrograman\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
